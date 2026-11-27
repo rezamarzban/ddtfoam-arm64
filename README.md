@@ -1,7 +1,7 @@
 # ddtfoam-arm64
 
 [ddtFoam](https://sourceforge.net/p/ddtfoam/code/) (DDT / detonation solver for OpenFOAM 2.1.x)
-compiled for ARM64 on top of `ghcr.io/<your-username>/openfoam211` (see the openfoam211-arm64 repo).
+compiled for ARM64 on top of `ghcr.io/rezamarzban/openfoam211` (see the openfoam211-arm64 repo).
 
 ## Build
 Actions tab -> `build-ddtfoam-arm64` -> Run workflow. Image: `ghcr.io/rezamarzban/ddtfoam:latest`
