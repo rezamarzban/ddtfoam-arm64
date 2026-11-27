@@ -4,8 +4,9 @@
 compiled for ARM64 on top of `ghcr.io/rezamarzban/openfoam211` (see the openfoam211-arm64 repo).
 
 ## Build
-Actions tab -> `build-ddtfoam-arm64` -> Run workflow. Image: `ghcr.io/rezamarzban/ddtfoam:latest`
-(set the package to Public). Build log inside the image: `/opt/ddtfoam-build.log`.
+Actions tab -> `build-ddtfoam-arm64` -> Run workflow. Image: `ghcr.io/rezamarzban/ddtfoam:latest`.
+
+Build log inside the image: `/opt/ddtfoam-build.log`.
 
 ## Use
 ```
